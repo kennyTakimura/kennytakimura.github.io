@@ -1,5 +1,5 @@
 # kennytakimura.github.io
 My profile site
 
-- site url
+- site url  
 https://kennytakimura.github.io/
